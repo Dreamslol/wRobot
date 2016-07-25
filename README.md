@@ -20,9 +20,9 @@
 
 ## Information & Contact
 
- * [wRbot.eu](http://wrobot.eu) Purchase and Download
+ * [wRobot.eu](http://wrobot.eu) Purchase and Download
  * [Dreamful](http://wrobot.eu/profile/28878-dreamful/) Feel free to Contact me (Paid Member only)
 
 ## Credits
 
-A big thank you goes to Droidz for the hard work on the Bot and supporting mutiple WoW versions at the same time. <3 
+A big thank you goes to Droidz, the hard work on the Bot and supporting mutiple WoW versions at the same time. <3 
