@@ -3,8 +3,8 @@
 ## Profiles for WotLK (3.3.5)
 
 ##### Leveling
- * [A] 1 - 80 One Click Grinding Profile	![Progress](http://progressed.io/bar/100)
- * [H] 1 - 80 One Click Grinding Profile	![Progress](http://progressed.io/bar/10)
+<img src="https://github.com/Dreamslol/wRobot/blob/master/A.png" width="16" height="16"><img src="https://github.com/Dreamslol/wRobot/blob/master/V.png" width="16" height="16"> 1 - 80 One Click Grinding Profile	![Progress](http://progressed.io/bar/100)<br>
+  <img src="https://github.com/Dreamslol/wRobot/blob/master/H.png" width="16" height="16"> 1 - 80 One Click Grinding Profile	![Progress](http://progressed.io/bar/10)
 
 ##### Reputation
  * [A] Netherwing ![Progress](http://progressed.io/bar/100)
@@ -33,3 +33,8 @@
 ## Credits
 
 A big thank you goes to Droidz, the hard work on the Bot and supporting mutiple WoW versions at the same time. <3 
+
+## Legend
+<img src="https://github.com/Dreamslol/wRobot/blob/master/H.png" width="16" height="16"> Horde Profile <br>
+<img src="https://github.com/Dreamslol/wRobot/blob/master/A.png" width="16" height="16"> Allaince Profile <br>
+<img src="https://github.com/Dreamslol/wRobot/blob/master/V.png" width="16" height="16"> Vendor/Repair/Mail Support
