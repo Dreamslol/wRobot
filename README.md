@@ -1,6 +1,6 @@
 # Profiles for the World of Warcraft Bot - wRobot
 
-## Profiles for WotLK
+## Profiles for WotLK (3.3.5)
 
 ##### Leveling
  * [A] 1 - 80 One Click Grinding Level Profile
@@ -13,6 +13,9 @@
  * Sholazarbasin
  * Icecrown
  * Storm Peaks
+ 
+## Profiles for Cata (4.3.4)
+ * none planed at the moment
 
 
 ## Information & Contact
