@@ -1,6 +1,5 @@
 # Profiles for the World of Warcraft Bot - wRobot
 <br>
-
 ## Profiles for WotLK
 
 ##### Leveling
