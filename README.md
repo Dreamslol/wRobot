@@ -3,16 +3,23 @@
 ## Profiles for WotLK (3.3.5)
 
 ##### Leveling
- * [A] 1 - 80 One Click Grinding Level Profile
+ * [A] 1 - 80 One Click Grinding Profile	![Progress](http://progressed.io/bar/100)
+ * [H] 1 - 80 One Click Grinding Profile	![Progress](http://progressed.io/bar/10)
 
 ##### Reputation
- * [Alliance] Netherwing
- * [Alliance] Kurenai
+ * [A] Netherwing ![Progress](http://progressed.io/bar/100)
+ * [A] Kurenai ![Progress](http://progressed.io/bar/100)
 
-##### Gather
- * Sholazarbasin
- * Icecrown
- * Storm Peaks
+##### Gatherer
+ * Sholazarbasin ![Progress](http://progressed.io/bar/100)
+ * Icecrown ![Progress](http://progressed.io/bar/0)
+ * Storm Peaks ![Progress](http://progressed.io/bar/0)
+ * Zul'Drak ![Progress](http://progressed.io/bar/0)
+ * Borean Tundra ![Progress](http://progressed.io/bar/0)
+
+##### Farming
+ * [A] Armorpenetration Buffood ![Progress](http://progressed.io/bar/100)
+ 
  
 ## Profiles for Cata (4.3.4)
  * none planed at the moment
