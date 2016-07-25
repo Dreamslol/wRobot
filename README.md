@@ -1,6 +1,4 @@
 # Profiles for the World of Warcraft Bot - wRobot
-
-<br>
 <br>
 
 ## Profiles for WotLK
