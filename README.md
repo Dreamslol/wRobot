@@ -1,10 +1,7 @@
 **Profiles for the World of Warcraft Bot - wRobot**
 ===============================================
 
-**Profiles for WotLK (3.3.5)**
---------------------------
-
-
+## Profiles for WotLK (3.3.5)
 
 Leveling
 --------
@@ -36,8 +33,8 @@ none planed at the moment
 
 Information & Contact
 =====================
-[wRobot.eu](http://wrobot.eu) Purchase and Download
-[Dreamful](http://wrobot.eu/profile/28878-dreamful/) Feel free to Contact me (Paid Member only)
+[wRobot.eu](http://wrobot.eu) Purchase and Download <br>
+[Dreamful](http://wrobot.eu/profile/28878-dreamful/) Feel free to Contact me for help (Paid Member only)
 
 Credits
 =======
@@ -45,8 +42,8 @@ A big thank you goes to Droidz, the hard work on the Bot and supporting mutiple 
 
 Legende
 =======
-[H] Horde Profile
-[A] Alliance Profile
-[B] Both Supported
+[H] Horde Profile <br>
+[A] Alliance Profile <br>
+[B] Both Factions Supported <br>
 
-All Profiles supporting Vendor, Repair & Mail
+All profiles supporting Vendor, Repair & Mail
