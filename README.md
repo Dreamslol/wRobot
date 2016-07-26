@@ -4,27 +4,29 @@
 **Profiles for WotLK (3.3.5)**
 --------------------------
 
+
+
 Leveling
 --------
- - <img src="https://github.com/Dreamslol/wRobot/blob/master/A.png" width="16" height="16"> <img src="https://github.com/Dreamslol/wRobot/blob/master/V.png" width="16" height="16"> 1 - 80 One Click Grinding Profile	![Progress](http://progressed.io/bar/100)
- - <img src="https://github.com/Dreamslol/wRobot/blob/master/H.png" width="16" height="16"> <img src="https://github.com/Dreamslol/wRobot/blob/master/V.png" width="16" height="16"> 1 - 80 One Click Grinding Profile	![Progress](http://progressed.io/bar/10)
+ - [A] 1 - 80 One Click Grinding Profile	![Progress](http://progressed.io/bar/100)
+ - [H] 1 - 80 One Click Grinding Profile	![Progress](http://progressed.io/bar/10)
 
 Reputation
 ----------
- - <img src="https://github.com/Dreamslol/wRobot/blob/master/A.png" width="16" height="16"> <img src="https://github.com/Dreamslol/wRobot/blob/master/V.png" width="16" height="16"> Netherwing ![Progress](http://progressed.io/bar/100)
- - <img src="https://github.com/Dreamslol/wRobot/blob/master/A.png" width="16" height="16"> <img src="https://github.com/Dreamslol/wRobot/blob/master/V.png" width="16" height="16"> Kurenai ![Progress](http://progressed.io/bar/100)
+ - [B] Netherwing ![Progress](http://progressed.io/bar/100)
+ - [A] Kurenai ![Progress](http://progressed.io/bar/100)
 
 Gatherer
 --------
- - <img src="https://github.com/Dreamslol/wRobot/blob/master/H.png" width="16" height="16"> <img src="https://github.com/Dreamslol/wRobot/blob/master/A.png" width="16" height="16"> <img src="https://github.com/Dreamslol/wRobot/blob/master/V.png" width="16" height="16"> Sholazarbasin ![Progress](http://progressed.io/bar/0)
- - Icecrown ![Progress](http://progressed.io/bar/0)
- - Storm Peaks ![Progress](http://progressed.io/bar/0)
- - Zul'Drak ![Progress](http://progressed.io/bar/0)
- - Borean Tundra ![Progress](http://progressed.io/bar/0)
+- [B] Sholazarbasin ![Progress](http://progressed.io/bar/100)
+- [B] Icecrown ![Progress](http://progressed.io/bar/0)
+- [B] Storm Peaks ![Progress](http://progressed.io/bar/0)
+- [B] Zul'Drak ![Progress](http://progressed.io/bar/0)
+- [B] Borean Tundra ![Progress](http://progressed.io/bar/0)
 
 Farming
 -------
- - <img src="https://github.com/Dreamslol/wRobot/blob/master/A.png" width="16" height="16"> <img src="https://github.com/Dreamslol/wRobot/blob/master/V.png" width="16" height="16"> Armorpenetration Buffood ![Progress](http://progressed.io/bar/100)
+ - [A] Armor Penetration Buffood ![Progress](http://progressed.io/bar/100)
 
 ----------
 **Profiles for Cata (4.3.4)**
@@ -43,6 +45,8 @@ A big thank you goes to Droidz, the hard work on the Bot and supporting mutiple 
 
 Legende
 =======
- <img src="https://github.com/Dreamslol/wRobot/blob/master/H.png" width="16" height="16"> Horde Profile
- <img src="https://github.com/Dreamslol/wRobot/blob/master/A.png" width="16" height="16"> Alliance Profile
- <img src="https://github.com/Dreamslol/wRobot/blob/master/V.png" width="16" height="16"> Vendor/Repair/Mail Support
+[H] Horde Profile
+[A] Alliance Profile
+[B] Both Supported
+
+All Profiles supporting Vendor, Repair & Mail
